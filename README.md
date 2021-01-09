@@ -1,7 +1,7 @@
 
 # Quiz App - Test your Knowledge with general questions
 
-# 🌐 Live @ www.quiz.okereke.dev
+# 🌐 Live @ https://quiz.okereke.dev/
 
 ## Copyright (c) 2021 Okereke Chinweotito
 ## The code and media present in this repository remains an intellectual property of Okereke Chinweotito and therefore cannot be copied, modified, redistributed, sublicenced or used as a template without due permission from the author
